@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-08-01T14:01:29.818Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 34,
+      "createdAt": "2024-07-29T14:08:29.818Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel do apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "createdAt": "2024-03-21T14:04:21.818Z"
+    },
+    {
+      "id": "edec",
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 12000,
+      "type": "income",
+      "createdAt": "2024-08-01T18:38:46.280Z"
+    },
+    {
+      "id": "ed93",
+      "createdAt": "2024-08-01T19:09:12.137Z",
+      "description": "Manutenção do carro",
+      "category": "Despesas",
+      "price": 980,
+      "type": "outcome"
+    }
+  ]
+}
